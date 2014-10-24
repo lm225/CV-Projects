@@ -1,0 +1,71 @@
+Hello, I'm Eliza
+0::i'm::I am
+0::you're::you are
+0::he's::he is
+0::she's::she is
+0::they're::they are
+1::I am::why are you::what made you::who has made you::how long have you been
+1::you are::am I
+1::he is::why is he::what has made him::who has made him::how long has he been
+1::she is::why is she::what has made her::who has made her::how long has she been
+1::they are::why are they::what has made them::who has made them::how long have they been
+1::i::you
+1::you::I
+1::my::your
+1::your::my
+1::myself::yourself
+1::yourself::myself
+1::he::is he
+1::she::is she
+1::am::are
+1::was::were
+2::hello::did you want to talk about something?::how are you today?
+2::hey::did you want to talk about something?::how are you today?
+2::hi::did you want to talk about something?::how are you today?
+2::sorry::there is no need to be sorry, would you like a cookie::that's okay::why are you sorry?
+2::no::why not?::no?::okay then, lets talk about something else::that's rather negative
+2::yes::are you sure?::that's good, do you want to continue this conversation?::okay then
+2::thanks::no problem::anytime::you're welcome
+2::please::you are very polite::sure thing::I like people with manners
+2::good::glad to here it::excellent, lets talk about something else::that's nice, tell me more about yourself
+2::baby::how old is the baby?::what is its name?
+2::birthday::my birthday is in March, remember that!::do you enjoy your birthdays?
+2::working::where do you work?::do you like working?::is your work hard?
+2::university::where do you go to university?::what do you study?::do you like your course?
+2::town::did you go shopping?::how long did you spend there?::who did you go with?
+2::sad::upset?::unhappy?::feeling down?
+2::upset::sad?::unhappy?
+2::happy::cheerful?::joyful?::chirpy?
+2::fine::happy?::good?
+2::worried::anxious?::troubled?::concerned?
+2::angry::mad?::annoyed?::cross?::outraged?
+2::hungry::hungry?
+2::stressed::stressed?
+2::frustrated::agitated?
+2::turn::next?
+2::you?::I'm fine thanks, you?::Not too good, it's been a long day::Excited, I have a party tonight. Are you doing anything?::I'm a computer, I don't have feelings.
+2::doing?::I'm talking to you::why do you want to know?
+2:::)::do you like to smile?
+2:::(::oh dear, why did you put a sad face?
+2::fun::what else do you find fun?
+3::mum
+3::dad
+3::brother
+3::sister
+3::cousin
+3::nan
+3::granddad
+3::auntie
+3::uncle
+3::friend
+3::dog
+3::cat
+4::how is your ::how old is your ::what is the name of your ::would you like to talk about your ::when was the last time you saw your 
+5::can you elaborate?::would you like to discuss that further?::does talking about this bother you?::are you sure you meant that?::I don't understand, can you rephrase that please?
+6::, that's nice::, do you want to talk about that some more?
+7::goodbye
+7::bye
+7::quit
+7::end
+7::stop
+8::Goodbye, nice talking to you::Speak to you soon::Miss you already::Bye bye
